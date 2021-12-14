@@ -1,4 +1,4 @@
-# A Masterpiece of All Music: A Machine Learning Approach to Automatic DJ
+# A Masterpiece of All Music: A Machine Learning Approach to Automated DJ
 
 This repository contains the machine learning based automated DJ system developed for the final project of CMU
 11-755/18-797 Machine Learning for Signal Processing by Yifan He, Yanqiao Wang, Yuchen Wu, and Tiancheng Zheng. The
